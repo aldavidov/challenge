@@ -1,9 +1,1 @@
-- !policy 
-  id: users
-  
-- !policy 
-  id: secrets
-
-- !policy 
-  id: jenkins
-
+-%20!policy%20%0A%20%20id%3A%20users%0A%20%20%0A-%20!policy%20%0A%20%20id%3A%20secrets%0A%0A-%20!policy%20%0A%20%20id%3A%20jenkins%0A
